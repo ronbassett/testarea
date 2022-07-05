@@ -1,2 +1,2 @@
-# testarea
-test area
+# testarea - misc. code testing area
+
